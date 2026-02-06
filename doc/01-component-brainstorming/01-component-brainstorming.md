@@ -1,8 +1,8 @@
 # Portfolio Part 1: Component Brainstorming
 
-- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) then delete this comment -->
-- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) then delete this comment -->
-- **Due Date**: <!-- TODO: fill with due date and time (e.g., 10/17 @ 3:10 PM EST) then delete this comment -->
+- **Name**: <(Mohammed Husein)>
+- **Dot Number**: <(Husein.18)>
+- **Due Date**: <(2/6 4:10pm)>
 
 ## Assignment Overview
 
@@ -106,11 +106,8 @@ Below is further rationale/explanation for the rubric items above:
 > brainstorming. Plus it helps us get to know you better! Feel free to share
 > images in this section.
 
-<!-- TODO: briefly talk about your interests then delete this comment.
-Also, protip: you can preview what your response looks like by hitting
-the magnifying glass icon in the upper-right corner or pressing CTRL+K and
-then V. This kind of button combination is called a chord, for whatever
-reason -->
+<(My interest's are in tech and both in software and hardware. My goal is to be able to graduate and work at my dream job company which is either Amazon or google
+for many different reasons, but for now this is my goal.)>
 
 ## Assignment
 
@@ -211,68 +208,72 @@ will likely refine your design to make your implementation easier to use.
 
 > Please use this section to share your designs.
 
-- Component Design #1: <!-- TODO: give component a name then delete this comment -->
+- Component Design #1: <(Smart Home System)>
   - **Description**:
-    - <!-- TODO: describe your component then delete this comment -->
+    - <(This home system component will control on and off lights as well as controlling the thermostat)>
   - **Kernel Methods**:
-    - <!-- TODO: list kernel methods then delete this comment -->
+    - <(void lightsOn() - turns the lights on.)>
+    - <(void lightsOff() - turns lights off.)>
+    - <(void thermostatControl() - controls thermostat)>
   - **Secondary Methods**:
-    - <!-- TODO: list secondary methods then delete this comment -->
+    - <(void setSprinklers() - time schdule for sprinklers)>
   - **Additional Considerations** (*note*: "I don't know" is an acceptable
     answer for each of the following questions):
     - Would this component be mutable? Answer and explain:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(Yes, because till today people when they travel they stil use this and install at their houses))>
     - Would this component rely on any internal classes (e.g., `Map.Pair`)?
       Answer and explain:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(IDK)>
     - Would this component need any enums or constants (e.g.,
       `Program.Instruction`)? Answer and explain:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(IDK)>
     - Can you implement your secondary methods using your kernel methods?
       Answer, explain, and give at least one example:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(Yes, as you are on your phone controlling everything in the house you can choose to control the sprinklers.)>
 
-- Component Design #2: <!-- TODO: give component a name then delete this comment -->
+- Component Design #2: <(Smart Car System)>
   - **Description**:
-    - <!-- TODO: describe your component then delete this comment -->
+    - <(This smart car system is made to let you remotestart and control the buttons for the car)>
   - **Kernel Methods**:
-    - <!-- TODO: list kernel methods then delete this comment -->
+    - <(void remoteStart() - turns on the vehicle)>
+    - <(void controlClimate() - allows you to control the climate)>
   - **Secondary Methods**:
-    - <!-- TODO: list secondary methods then delete this comment -->
+    - <(void headLightsOn() - turns on lights from outside)>
   - **Additional Considerations** (*note*: "I don't know" is an acceptable
     answer for each of the following questions):
     - Would this component be mutable? Answer and explain:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(I believe yes maybe sometimes the smart phone system isnt being compatible so that's where it could be alittle inconsistent.)>
     - Would this component rely on any internal classes (e.g., `Map.Pair`)?
       Answer and explain:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(IDK)>
     - Would this component need any enums or constants (e.g.,
       `Program.Instruction`)? Answer and explain:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(IDK)>
     - Can you implement your secondary methods using your kernel methods?
       Answer, explain, and give at least one example:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(IDK)>
 
-- Component Design #3: <!-- TODO: give component a name then delete this comment -->
+- Component Design #3: <(Heated Shovel System)>
   - **Description**:
-    - <!-- TODO: describe your component then delete this comment -->
+    - <This heating shovel design would allow for users to be easy to shovel hard ice off the ground, aswell lift snow while melting it)>
   - **Kernel Methods**:
-    - <!-- TODO: list kernel methods then delete this comment -->
+    - <(void turnHeatOn() - allows heat to reach 150 degrees to melt snow quick)>
+    - <(void turnHeatOff() - can be turned off if returned back inside or just want to normally shovel)>
   - **Secondary Methods**:
-    - <!-- TODO: list secondary methods then delete this comment -->
+    - <(void setClimateReady() - based off the temperature outside it will be able to detect whether to have it on or off while in use.)>
   - **Additional Considerations** (*note*: "I don't know" is an acceptable
     answer for each of the following questions):
     - Would this component be mutable? Answer and explain:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(I believe it could might have some issues like buttons not working or heat is not transferring anymore.)>
     - Would this component rely on any internal classes (e.g., `Map.Pair`)?
       Answer and explain:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(IDK)>
     - Would this component need any enums or constants (e.g.,
       `Program.Instruction`)? Answer and explain:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(IDK)>
     - Can you implement your secondary methods using your kernel methods?
       Answer, explain, and give at least one example:
-      - <!-- TODO: provide an argument then delete this comment -->
+      - <(Yes, while outside once the shovel detects coldness and lots of snow on the shovel it will proceed to heat to melt.)>
 
 ## Post-Assignment
 
