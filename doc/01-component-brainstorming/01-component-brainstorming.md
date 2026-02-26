@@ -1,8 +1,9 @@
 # Portfolio Part 1: Component Brainstorming
 
-- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) then delete this comment -->
-- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) then delete this comment -->
-- **Due Date**: <!-- TODO: fill with due date and time (e.g., 10/17 @ 3:10 PM EST) then delete this comment -->
+- **Name**: <Mohammed Husein>
+- **Dot Number**: <Husein.18>
+- **Due Date**: <2/25 4:10pm>
+
 
 ## Assignment Overview
 
@@ -106,11 +107,10 @@ Below is further rationale/explanation for the rubric items above:
 > brainstorming. Plus it helps us get to know you better! Feel free to share
 > images in this section.
 
-<!-- TODO: briefly talk about your interests then delete this comment.
-Also, protip: you can preview what your response looks like by hitting
-the magnifying glass icon in the upper-right corner or pressing CTRL+K and
-then V. This kind of button combination is called a chord, for whatever
-reason -->
+<My career goals is to be as successful as I can in anything I attempt to do,
+for starters hopefully get my degree and be able to land a nice great job. Some
+of my interests are working out staying active as possible and learning more about
+software.>
 
 ## Assignment
 
