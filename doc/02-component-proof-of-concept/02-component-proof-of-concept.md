@@ -1,8 +1,8 @@
 # Portfolio Part 2: Component Proof-of-Concept
 
-- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) then delete this comment -->
-- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) then delete this comment -->
-- **Due Date**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) then delete this comment -->
+- **Name**: <Mohammed Husein>
+- **Dot Number**: <Husein.18>
+- **Due Date**: <2/25 4:10pm>
 
 ## Assignment Overview
 
@@ -116,6 +116,8 @@ Below is further rationale/explanation for the rubric items above:
 
 <!-- TODO: briefly argue your choice of design or design something
 new; then delete this comment -->
+<I chose to talk about and create a Task tracker where it's job is to help users understand whether or not they finshed a task, this idea fits perfectly for this 
+design as it helps many users to organize and understand what they have completed and what they have not.>
 
 > Once you've argued your choice of design, make a branch in your new repo called
 > something like `proof-of-concept`. There are many ways to do this, but my
