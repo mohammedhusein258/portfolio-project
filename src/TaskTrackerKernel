@@ -1,0 +1,11 @@
+import components.standard.Standard;
+
+/**
+ * Kernel interface for TaskTracker component.
+ */
+public interface TaskTrackerKernel extends Standard<TaskTracker> {
+
+    void addTask(String task);
+    void completeTask(String task);
+    int size();
+}
