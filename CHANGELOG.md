@@ -12,13 +12,14 @@ the following form: YYYY.0M.0D.
 - Fixed broken links
 - Disabled AI features globally
 
-## [2024.12.30]
+## [2024.01.07]
 
 - Added table-based rubrics to all 6 parts of the project
 - Updated gitignore to exclude more files
 - Fixed image markdown in the interfaces document
+- Designed and implemented for my TaskTrackerSecondary abstract class for the TaskTracker component.
 
-## [2024.08.07]
+## [2024.01.07]
 
 ### Added
 
