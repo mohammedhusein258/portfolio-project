@@ -36,3 +36,4 @@ replay_pid*
 
 # Folders that will not be committed to the repo, even if private
 bin/*
+doc/04-component-abstract-class/04-component-abstract-class.md
