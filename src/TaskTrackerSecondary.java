@@ -1,33 +1,22 @@
-/**
- * Secondary methods implementation for my TaskTracker component.
- */
 public abstract class TaskTrackerSecondary implements TaskTracker {
-    @Override
-    public boolean isCompleted(String task) {
-        throw new UnsupportedOperationException();
-    }
 
     @Override
-    public int completedCount() {
-        throw new UnsupportedOperationException();
-    }
-
-    @Override
-    public int remainingTasks() {
-        return this.size();
-    }
-
-    @Override
-    public String toString() {
-        return "TaskTracker with " + this.size() + " tasks";
-    }
-
-    @Override
-    public boolean equals(Object obj) {
-        if (!(obj instanceof TaskTracker)) {
-            return false;
+    public void clear() {
+        while (this.size() > 0) {
+            this.removeTask(0);
         }
-        TaskTracker other = (TaskTracker) obj;
-        return this.size() == other.size();
+    }
+
+    @Override
+    public void transferFrom(TaskTracker source) {
+        TaskTracker temp = this.newInstance();
+
+        while (source.size() > 0) {
+            temp.addTask(source.removeTask(0));
+        }
+
+        while (temp.size() > 0) {
+            this.addTask(temp.removeTask(0));
+        }
     }
 }
