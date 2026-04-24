@@ -1,8 +1,8 @@
 # Portfolio Part 6: Finishing Touches
 
-- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) and delete this comment -->
-- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) and delete this comment -->
-- **Due Date**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) and delete this comment -->
+- **Name**: <(Mohammed Husein)>
+- **Dot Number**: <(Husein.18)>
+- **Due Date**: <(4/24/ 4:10pm)>
 
 ## Assignment Overview
 
@@ -13,7 +13,7 @@ implementation.
 Now, we want you to start producing your actual portfolio. To do that, you
 need to do a few things first:
 
-1. **You need to add testing**: tests can be written basically as soon as you
+1. **You need to add testing**: tess can be written basically as soon as you
    have designed your interfaces. Of course, because of how many changes your
    design has probably had up to this point, writing tests that early may lead
    to a lot of rework. Therefore, there is no better time to start testing than

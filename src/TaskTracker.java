@@ -1,8 +1,8 @@
 public interface TaskTracker extends TaskTrackerKernel {
-    boolean isCompleted(String task);
 
-    int completedCount();
+    TaskTracker newInstance();
 
-    int remainingTasks();
+    void clear();
 
+    void transferFrom(TaskTracker source);
 }
