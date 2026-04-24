@@ -1,0 +1,12 @@
+public class TaskTrackerDemo2 {
+    public static void main(String[] args) {
+        TaskTracker t = new TaskTracker1L();
+
+        t.addTask("Finish project");
+        t.addTask("Go to gym");
+
+        t.markComplete("Finish project");
+
+        System.out.println("Completed tasks: " + t.completedTasks());
+    }
+}
